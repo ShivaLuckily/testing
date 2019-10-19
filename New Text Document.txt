@@ -1,1 +1,13 @@
-testing
+goto the folder
+
+git init
+
+git status
+
+git add .
+
+git commit -m ""
+
+git remote add origin pathoftherepository
+
+git push origin master
